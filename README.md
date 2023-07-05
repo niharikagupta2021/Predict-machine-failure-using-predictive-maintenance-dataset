@@ -1,4 +1,5 @@
-#Predict machine failure using the predictive Maintenance Dataset
+Predict machine failure using the predictive Maintenance Dataset
+
 This project involves creating four models to predict machine failure for the predictive maintenance dataset taken from the UCI machine learning repository.
 The following steps are followed in this project:
 1.Data Description
